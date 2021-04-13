@@ -8,7 +8,7 @@ namespace ResponsiPemrograman3312
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Console.WriteLine("No. Nik/Nama                   Gaji Bulanan");
             Console.WriteLine("-------------------------------------------");
