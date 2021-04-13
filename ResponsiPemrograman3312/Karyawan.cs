@@ -27,7 +27,7 @@ namespace ResponsiPemrograman3312
             Console.WriteLine("{0}. {1}  {2}           {3}", Urutan, NIK, Nama, GajiBulanan);
             if (GajiBulanan < 0)
             {
-                Console.WriteLine("Maaf Gaji kurang dari ");
+                Console.WriteLine("maaf gaji Anda kurang dari ");
             }
 
         }
@@ -36,14 +36,8 @@ namespace ResponsiPemrograman3312
             Console.WriteLine("{0}. {1}  {2}           {3}", Urutan, NIK, Nama, GajiBulanan+ (GajiBulanan * 0.1));
             if (GajiBulanan < 0)
             {
-                Console.WriteLine("Maaf Gaji kurang dari ");
+                Console.WriteLine("maaf gaji Anda kurang dari ");
             }
         }
-
-        //public void Output2()
-        //{
-        // Console.WriteLine("{0}. {1}   {2}         {3}", Urutan, NIK, Nama, GajiBulanan + (GajiBulanan * 0.1));
-
-        //}
     }
 }
