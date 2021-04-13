@@ -15,7 +15,7 @@ namespace ResponsiPemrograman3312
                 Nama = Name;
                 GajiBulanan = Gaji;
 
-            }
+            } 
 
             public int Urutan { get; set; }
             public int NIK { get; set; }
